@@ -1,2 +1,4 @@
 C:\Projects\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
 C:\Projects\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
+C:\Users\belsheikh\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.SuggestedBindingRedirects.cache
+C:\Users\belsheikh\Desktop\HealthCheck\HealthCheck\obj\Debug\HealthCheck.esproj.CoreCompileInputs.cache
